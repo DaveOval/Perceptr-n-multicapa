@@ -117,4 +117,8 @@ dmypy.json
 *.temp
 .tmp/
 temp/
+.keras/
+.matplotlib/
+.ipython/
+
 
